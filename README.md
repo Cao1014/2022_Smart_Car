@@ -1,5 +1,9 @@
 # 2022 TDPS
-This repository includes the electrical designs of TDPS, Glasgow College, UESTC, 2022 by Group01_Team03.
+This repository includes the electrical designs of TDPS, Glasgow College, UESTC, 2022 by Group01 Team03.  
+(Note: _Computer Vision_ is not within the scope, sorry &#x1F915;)  
+## Software:   
+_Altium Designer_ 22.0.2 with student license  
+_MDK-ARM 5.29.0.0_  default compiler version 5
 ## The whole design
 Overall design of the car
 
@@ -23,3 +27,5 @@ Obtaining the speed and angle of the car is the premise to realize the car's aut
 **The circuit schematics and PCB layout are in the Altium folder.**  
 **Codes for all patios are in the Codes folder.**  
 (Note: Though the name is CHAS_G0_V2_Patio1, they include both Patio1 and Patio2 &#x1F600;)
+
+
