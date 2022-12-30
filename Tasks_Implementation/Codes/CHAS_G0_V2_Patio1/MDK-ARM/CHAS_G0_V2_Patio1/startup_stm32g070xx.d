@@ -1,0 +1,1 @@
+chas_g0_v2_patio1\startup_stm32g070xx.o: startup_stm32g070xx.s
