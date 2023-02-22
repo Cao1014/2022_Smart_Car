@@ -1,5 +1,6 @@
-# 2022 TDPS
-This repository includes the electrical designs of TDPS, Glasgow College, UESTC, 2022 by Group01 Team03.  
+# 2022 Smart Car
+This repository includes the electrical designs of a smart car designed by in 2022.
+
 (Note: _Computer Vision_ is not within the scope, sorry &#x1F915;)  
 ## Software:   
 _Altium Designer_ 22.0.2 with student license  
@@ -30,6 +31,5 @@ Obtaining the speed and angle of the car is the premise to realize the car's aut
 
 **The circuit schematics and PCB layout are in the Altium folder.**  
 **Codes for all patios are in the Codes folder.**  
-(Note: Though the name is CHAS_G0_V2_Patio1, they include both Patio1 and Patio2 &#x1F600;)
 
 
